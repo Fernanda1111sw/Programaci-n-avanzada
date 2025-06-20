@@ -1,1 +1,7 @@
+Descripción de la Actividad
+La actividad consistió en implementar y analizar dos algoritmos de ordenamiento clásicos —Burbuja y Quicksort— utilizando el lenguaje de programación Python dentro del entorno de Jupyter Notebook. El objetivo fue comparar el rendimiento de ambos métodos en listas de diferentes tamaños, evaluando el tiempo de ejecución que requiere cada uno para organizar los datos.
+Durante la práctica, se generaron listas aleatorias de números enteros, y se midió el tiempo que tomaba cada algoritmo para ordenarlas. Los resultados fueron visualizados mediante gráficos comparativos, lo cual permitió interpretar de forma clara la eficiencia relativa de cada técnica.
 
+Además del enfoque computacional, la actividad promovió el uso de herramientas modernas como matplotlib para visualización y GitHub para el control de versiones y la publicación del proyecto, fomentando así habilidades transversales en documentación, análisis de datos y buenas prácticas de desarrollo.
+
+Esta práctica refuerza conceptos fundamentales en el estudio de algoritmos y estructuras de datos, esenciales para aplicaciones en campos como la robótica, donde el rendimiento del software puede impactar directamente en la efectividad del sistema. 
