@@ -1,0 +1,7 @@
+Este proyecto analiza datos de contenidos disponibles en la plataforma Netflix, como películas y series, para encontrar patrones asociados al éxito de los títulos. En la primera etapa, se realiza una exploración de los datos para conocer su estructura, identificar valores nulos, y comprender cómo se relacionan variables como país de origen, duración, ingresos, votos, calificación y otras características.
+
+Posteriormente, los datos son preparados y divididos en dos conjuntos: uno destinado al entrenamiento del modelo y otro para evaluar su capacidad predictiva. En este caso, se utiliza el algoritmo Naïve Bayes, un modelo probabilístico basado en el Teorema de Bayes, ideal para resolver problemas de clasificación binaria como predecir si un contenido será exitoso o no.
+
+Una vez entrenado el modelo, se realiza su validación con nuevos datos y se evalúa su desempeño mediante métricas como precisión, matriz de confusión y tasa de aciertos. También se aplican técnicas de visualización como gráficos de dispersión, mapas de calor, diagramas de caja y comparaciones entre países (por ejemplo, entre India y Estados Unidos), con el fin de interpretar los resultados y entender mejor los factores que influyen en el éxito del contenido.
+
+Gracias a este análisis, es posible identificar patrones relevantes que pueden servir como base para futuras estrategias de recomendación o decisiones de producción basadas en datos.
